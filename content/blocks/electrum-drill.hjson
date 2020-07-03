@@ -13,7 +13,7 @@ consumes: {
   }
 }
 requirements: [
-  electrum/80
+  electrum/160
   silicon/40
   graphite/20
 ]
