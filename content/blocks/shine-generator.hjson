@@ -11,7 +11,7 @@ consumes: {
     items: [
       gold-powder/1
     ]
-    optional: true
+    optional: false
   }
 }
 requirements: [
